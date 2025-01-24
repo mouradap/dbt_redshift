@@ -7,3 +7,4 @@ The generated files you can add to the seeds folder, in ./ecommerce_dbt/seeds
 Try running the following commands:
 - dbt run
 - dbt test
+  
